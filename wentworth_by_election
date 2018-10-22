@@ -1,0 +1,732 @@
+StateAb	DivisionID	DivisionNm	PollingPlaceID	PollingPlace	CandidateID	Surname	GivenNm	BallotPosition	Elected	HistoricElected	PartyAb	PartyNm	OrdinaryVotes	Swing
+NSW	152	Wentworth	2854	Bellevue Hill	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	10	0.44
+NSW	152	Wentworth	2854	Bellevue Hill	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	169	-8.37
+NSW	152	Wentworth	2854	Bellevue Hill	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	12	0.53
+NSW	152	Wentworth	2854	Bellevue Hill	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	3	0.13
+NSW	152	Wentworth	2854	Bellevue Hill	32070	MURRAY	Tim	5	N	N	ALP	Labor	192	-11.5
+NSW	152	Wentworth	2854	Bellevue Hill	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	5	0.22
+NSW	152	Wentworth	2854	Bellevue Hill	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	2	0.09
+NSW	152	Wentworth	2854	Bellevue Hill	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	13	0.57
+NSW	152	Wentworth	2854	Bellevue Hill	32073	SHARMA	Dave	9	N	N	LP	Liberal	1032	-13.12
+NSW	152	Wentworth	2854	Bellevue Hill	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	36	1.59
+NSW	152	Wentworth	2854	Bellevue Hill	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	15	0.66
+NSW	152	Wentworth	2854	Bellevue Hill	32071	LEONG	Andrea	12	N	N	FUT	Science Party	10	-0.58
+NSW	152	Wentworth	2854	Bellevue Hill	32072	HEATH	Licia	13	N	N	IND	Independent	29	1.28
+NSW	152	Wentworth	2854	Bellevue Hill	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	7	-1.75
+NSW	152	Wentworth	2854	Bellevue Hill	32061	PHELPS	Kerryn	15	N	N	IND	Independent	724	31.88
+NSW	152	Wentworth	2854	Bellevue Hill	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	12	0.53
+NSW	152	Wentworth	2854	Bellevue Hill	999	Informal	Informal	999	N	N		Informal	169	1.8
+NSW	152	Wentworth	2870	Bellevue Hill South	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	7	0.65
+NSW	152	Wentworth	2870	Bellevue Hill South	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	40	-2.72
+NSW	152	Wentworth	2870	Bellevue Hill South	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	5	0.46
+NSW	152	Wentworth	2870	Bellevue Hill South	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.09
+NSW	152	Wentworth	2870	Bellevue Hill South	32070	MURRAY	Tim	5	N	N	ALP	Labor	71	-2.06
+NSW	152	Wentworth	2870	Bellevue Hill South	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	2870	Bellevue Hill South	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.09
+NSW	152	Wentworth	2870	Bellevue Hill South	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	7	0.65
+NSW	152	Wentworth	2870	Bellevue Hill South	32073	SHARMA	Dave	9	N	N	LP	Liberal	635	-21.79
+NSW	152	Wentworth	2870	Bellevue Hill South	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	11	1.02
+NSW	152	Wentworth	2870	Bellevue Hill South	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	3	0.28
+NSW	152	Wentworth	2870	Bellevue Hill South	32071	LEONG	Andrea	12	N	N	FUT	Science Party	6	-0.46
+NSW	152	Wentworth	2870	Bellevue Hill South	32072	HEATH	Licia	13	N	N	IND	Independent	9	0.83
+NSW	152	Wentworth	2870	Bellevue Hill South	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	2	-1.01
+NSW	152	Wentworth	2870	Bellevue Hill South	32061	PHELPS	Kerryn	15	N	N	IND	Independent	282	26.06
+NSW	152	Wentworth	2870	Bellevue Hill South	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	2	0.18
+NSW	152	Wentworth	2870	Bellevue Hill South	999	Informal	Informal	999	N	N		Informal	35	-0.92
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	0	0
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	1	0.37
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	0	0
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32070	MURRAY	Tim	5	N	N	ALP	Labor	4	-10.29
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	1	6.25
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	0	0
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	0	0
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32073	SHARMA	Dave	9	N	N	LP	Liberal	6	-9.56
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	0	0
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	0	0
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32071	LEONG	Andrea	12	N	N	FUT	Science Party	0	-5.88
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32072	HEATH	Licia	13	N	N	IND	Independent	1	6.25
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	0	0
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32061	PHELPS	Kerryn	15	N	N	IND	Independent	3	18.75
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	0	0
+NSW	152	Wentworth	65466	BLV Wentworth PPVC	999	Informal	Informal	999	N	N		Informal	0	0
+NSW	152	Wentworth	2297	Bondi	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	4	0.37
+NSW	152	Wentworth	2297	Bondi	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	161	-5.93
+NSW	152	Wentworth	2297	Bondi	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	5	0.46
+NSW	152	Wentworth	2297	Bondi	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	3	0.27
+NSW	152	Wentworth	2297	Bondi	32070	MURRAY	Tim	5	N	N	ALP	Labor	147	-9.22
+NSW	152	Wentworth	2297	Bondi	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	2297	Bondi	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.09
+NSW	152	Wentworth	2297	Bondi	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	5	0.46
+NSW	152	Wentworth	2297	Bondi	32073	SHARMA	Dave	9	N	N	LP	Liberal	333	-20
+NSW	152	Wentworth	2297	Bondi	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	15	1.37
+NSW	152	Wentworth	2297	Bondi	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	10	0.92
+NSW	152	Wentworth	2297	Bondi	32071	LEONG	Andrea	12	N	N	FUT	Science Party	13	-0.22
+NSW	152	Wentworth	2297	Bondi	32072	HEATH	Licia	13	N	N	IND	Independent	20	1.83
+NSW	152	Wentworth	2297	Bondi	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	6	-1.63
+NSW	152	Wentworth	2297	Bondi	32061	PHELPS	Kerryn	15	N	N	IND	Independent	360	32.97
+NSW	152	Wentworth	2297	Bondi	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	9	0.82
+NSW	152	Wentworth	2297	Bondi	999	Informal	Informal	999	N	N		Informal	83	1.23
+NSW	152	Wentworth	2298	Bondi Beach	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	17	0.45
+NSW	152	Wentworth	2298	Bondi Beach	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	614	-7.44
+NSW	152	Wentworth	2298	Bondi Beach	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	15	0.4
+NSW	152	Wentworth	2298	Bondi Beach	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	4	0.11
+NSW	152	Wentworth	2298	Bondi Beach	32070	MURRAY	Tim	5	N	N	ALP	Labor	468	-8.53
+NSW	152	Wentworth	2298	Bondi Beach	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	4	0.11
+NSW	152	Wentworth	2298	Bondi Beach	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	14	0.37
+NSW	152	Wentworth	2298	Bondi Beach	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	14	0.37
+NSW	152	Wentworth	2298	Bondi Beach	32073	SHARMA	Dave	9	N	N	LP	Liberal	1087	-20.23
+NSW	152	Wentworth	2298	Bondi Beach	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	42	1.12
+NSW	152	Wentworth	2298	Bondi Beach	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	26	0.69
+NSW	152	Wentworth	2298	Bondi Beach	32071	LEONG	Andrea	12	N	N	FUT	Science Party	32	-0.79
+NSW	152	Wentworth	2298	Bondi Beach	32072	HEATH	Licia	13	N	N	IND	Independent	75	2
+NSW	152	Wentworth	2298	Bondi Beach	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	18	-2.08
+NSW	152	Wentworth	2298	Bondi Beach	32061	PHELPS	Kerryn	15	N	N	IND	Independent	1300	34.6
+NSW	152	Wentworth	2298	Bondi Beach	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	27	0.72
+NSW	152	Wentworth	2298	Bondi Beach	999	Informal	Informal	999	N	N		Informal	296	1.38
+NSW	152	Wentworth	83718	Bondi Beach East	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	6	0.96
+NSW	152	Wentworth	83718	Bondi Beach East	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	82	-10.25
+NSW	152	Wentworth	83718	Bondi Beach East	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	3	0.48
+NSW	152	Wentworth	83718	Bondi Beach East	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	83718	Bondi Beach East	32070	MURRAY	Tim	5	N	N	ALP	Labor	64	-10.86
+NSW	152	Wentworth	83718	Bondi Beach East	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	1	0.16
+NSW	152	Wentworth	83718	Bondi Beach East	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.16
+NSW	152	Wentworth	83718	Bondi Beach East	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	3	0.48
+NSW	152	Wentworth	83718	Bondi Beach East	32073	SHARMA	Dave	9	N	N	LP	Liberal	188	-19.55
+NSW	152	Wentworth	83718	Bondi Beach East	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	5	0.8
+NSW	152	Wentworth	83718	Bondi Beach East	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	1	0.16
+NSW	152	Wentworth	83718	Bondi Beach East	32071	LEONG	Andrea	12	N	N	FUT	Science Party	4	-0.92
+NSW	152	Wentworth	83718	Bondi Beach East	32072	HEATH	Licia	13	N	N	IND	Independent	10	1.6
+NSW	152	Wentworth	83718	Bondi Beach East	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	2	-2.23
+NSW	152	Wentworth	83718	Bondi Beach East	32061	PHELPS	Kerryn	15	N	N	IND	Independent	256	40.89
+NSW	152	Wentworth	83718	Bondi Beach East	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	0	0
+NSW	152	Wentworth	83718	Bondi Beach East	999	Informal	Informal	999	N	N		Informal	50	1.38
+NSW	152	Wentworth	2878	Bondi Junction	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	12	0.7
+NSW	152	Wentworth	2878	Bondi Junction	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	150	-7.07
+NSW	152	Wentworth	2878	Bondi Junction	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	12	0.7
+NSW	152	Wentworth	2878	Bondi Junction	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	5	0.29
+NSW	152	Wentworth	2878	Bondi Junction	32070	MURRAY	Tim	5	N	N	ALP	Labor	228	-9.16
+NSW	152	Wentworth	2878	Bondi Junction	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	2	0.12
+NSW	152	Wentworth	2878	Bondi Junction	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	5	0.29
+NSW	152	Wentworth	2878	Bondi Junction	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	6	0.35
+NSW	152	Wentworth	2878	Bondi Junction	32073	SHARMA	Dave	9	N	N	LP	Liberal	657	-17.79
+NSW	152	Wentworth	2878	Bondi Junction	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	16	0.94
+NSW	152	Wentworth	2878	Bondi Junction	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	10	0.59
+NSW	152	Wentworth	2878	Bondi Junction	32071	LEONG	Andrea	12	N	N	FUT	Science Party	20	-0.52
+NSW	152	Wentworth	2878	Bondi Junction	32072	HEATH	Licia	13	N	N	IND	Independent	31	1.82
+NSW	152	Wentworth	2878	Bondi Junction	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	4	-1.16
+NSW	152	Wentworth	2878	Bondi Junction	32061	PHELPS	Kerryn	15	N	N	IND	Independent	534	31.32
+NSW	152	Wentworth	2878	Bondi Junction	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	13	0.76
+NSW	152	Wentworth	2878	Bondi Junction	999	Informal	Informal	999	N	N		Informal	133	1.88
+NSW	152	Wentworth	83716	Bondi Junction North	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	11	0.76
+NSW	152	Wentworth	83716	Bondi Junction North	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	158	-4.96
+NSW	152	Wentworth	83716	Bondi Junction North	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	10	0.69
+NSW	152	Wentworth	83716	Bondi Junction North	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	6	0.41
+NSW	152	Wentworth	83716	Bondi Junction North	32070	MURRAY	Tim	5	N	N	ALP	Labor	192	-9.27
+NSW	152	Wentworth	83716	Bondi Junction North	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	2	0.14
+NSW	152	Wentworth	83716	Bondi Junction North	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	4	0.28
+NSW	152	Wentworth	83716	Bondi Junction North	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	15	1.04
+NSW	152	Wentworth	83716	Bondi Junction North	32073	SHARMA	Dave	9	N	N	LP	Liberal	557	-17.85
+NSW	152	Wentworth	83716	Bondi Junction North	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	12	0.83
+NSW	152	Wentworth	83716	Bondi Junction North	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	11	0.76
+NSW	152	Wentworth	83716	Bondi Junction North	32071	LEONG	Andrea	12	N	N	FUT	Science Party	16	-0.59
+NSW	152	Wentworth	83716	Bondi Junction North	32072	HEATH	Licia	13	N	N	IND	Independent	18	1.24
+NSW	152	Wentworth	83716	Bondi Junction North	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	10	-0.7
+NSW	152	Wentworth	83716	Bondi Junction North	32061	PHELPS	Kerryn	15	N	N	IND	Independent	418	28.87
+NSW	152	Wentworth	83716	Bondi Junction North	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	8	0.55
+NSW	152	Wentworth	83716	Bondi Junction North	999	Informal	Informal	999	N	N		Informal	105	1.4
+NSW	152	Wentworth	2300	Bondi North	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	8	0.7
+NSW	152	Wentworth	2300	Bondi North	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	127	-7.3
+NSW	152	Wentworth	2300	Bondi North	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	8	0.7
+NSW	152	Wentworth	2300	Bondi North	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	3	0.26
+NSW	152	Wentworth	2300	Bondi North	32070	MURRAY	Tim	5	N	N	ALP	Labor	128	-11.06
+NSW	152	Wentworth	2300	Bondi North	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	3	0.26
+NSW	152	Wentworth	2300	Bondi North	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	5	0.43
+NSW	152	Wentworth	2300	Bondi North	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	4	0.35
+NSW	152	Wentworth	2300	Bondi North	32073	SHARMA	Dave	9	N	N	LP	Liberal	400	-19.71
+NSW	152	Wentworth	2300	Bondi North	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	15	1.3
+NSW	152	Wentworth	2300	Bondi North	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	8	0.7
+NSW	152	Wentworth	2300	Bondi North	32071	LEONG	Andrea	12	N	N	FUT	Science Party	9	0.1
+NSW	152	Wentworth	2300	Bondi North	32072	HEATH	Licia	13	N	N	IND	Independent	36	3.13
+NSW	152	Wentworth	2300	Bondi North	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	6	-1.97
+NSW	152	Wentworth	2300	Bondi North	32061	PHELPS	Kerryn	15	N	N	IND	Independent	380	33.04
+NSW	152	Wentworth	2300	Bondi North	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	10	0.87
+NSW	152	Wentworth	2300	Bondi North	999	Informal	Informal	999	N	N		Informal	109	1.51
+NSW	152	Wentworth	82990	Bondi South	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	1	0.13
+NSW	152	Wentworth	82990	Bondi South	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	89	-9.34
+NSW	152	Wentworth	82990	Bondi South	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	3	0.4
+NSW	152	Wentworth	82990	Bondi South	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	82990	Bondi South	32070	MURRAY	Tim	5	N	N	ALP	Labor	96	-8.81
+NSW	152	Wentworth	82990	Bondi South	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	1	0.13
+NSW	152	Wentworth	82990	Bondi South	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	2	0.27
+NSW	152	Wentworth	82990	Bondi South	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	7	0.93
+NSW	152	Wentworth	82990	Bondi South	32073	SHARMA	Dave	9	N	N	LP	Liberal	257	-17.15
+NSW	152	Wentworth	82990	Bondi South	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	7	0.93
+NSW	152	Wentworth	82990	Bondi South	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	5	0.66
+NSW	152	Wentworth	82990	Bondi South	32071	LEONG	Andrea	12	N	N	FUT	Science Party	5	-0.78
+NSW	152	Wentworth	82990	Bondi South	32072	HEATH	Licia	13	N	N	IND	Independent	17	2.26
+NSW	152	Wentworth	82990	Bondi South	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	7	-1.4
+NSW	152	Wentworth	82990	Bondi South	32061	PHELPS	Kerryn	15	N	N	IND	Independent	248	32.93
+NSW	152	Wentworth	82990	Bondi South	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	8	1.06
+NSW	152	Wentworth	82990	Bondi South	999	Informal	Informal	999	N	N		Informal	82	4.35
+NSW	152	Wentworth	34097	Bondi Surf	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	7	0.57
+NSW	152	Wentworth	34097	Bondi Surf	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	183	-9.8
+NSW	152	Wentworth	34097	Bondi Surf	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	4	0.33
+NSW	152	Wentworth	34097	Bondi Surf	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.08
+NSW	152	Wentworth	34097	Bondi Surf	32070	MURRAY	Tim	5	N	N	ALP	Labor	129	-8.9
+NSW	152	Wentworth	34097	Bondi Surf	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	1	0.08
+NSW	152	Wentworth	34097	Bondi Surf	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	0	0
+NSW	152	Wentworth	34097	Bondi Surf	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	5	0.41
+NSW	152	Wentworth	34097	Bondi Surf	32073	SHARMA	Dave	9	N	N	LP	Liberal	375	-19.46
+NSW	152	Wentworth	34097	Bondi Surf	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	12	0.98
+NSW	152	Wentworth	34097	Bondi Surf	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	3	0.24
+NSW	152	Wentworth	34097	Bondi Surf	32071	LEONG	Andrea	12	N	N	FUT	Science Party	10	-0.58
+NSW	152	Wentworth	34097	Bondi Surf	32072	HEATH	Licia	13	N	N	IND	Independent	25	2.04
+NSW	152	Wentworth	34097	Bondi Surf	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	9	-2.58
+NSW	152	Wentworth	34097	Bondi Surf	32061	PHELPS	Kerryn	15	N	N	IND	Independent	459	37.38
+NSW	152	Wentworth	34097	Bondi Surf	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	5	0.41
+NSW	152	Wentworth	34097	Bondi Surf	999	Informal	Informal	999	N	N		Informal	69	0.71
+NSW	152	Wentworth	2301	Bronte	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	7	0.46
+NSW	152	Wentworth	2301	Bronte	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	204	-5.55
+NSW	152	Wentworth	2301	Bronte	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	12	0.79
+NSW	152	Wentworth	2301	Bronte	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	2301	Bronte	32070	MURRAY	Tim	5	N	N	ALP	Labor	230	-6.03
+NSW	152	Wentworth	2301	Bronte	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	2301	Bronte	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	3	0.2
+NSW	152	Wentworth	2301	Bronte	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	3	0.2
+NSW	152	Wentworth	2301	Bronte	32073	SHARMA	Dave	9	N	N	LP	Liberal	430	-27.24
+NSW	152	Wentworth	2301	Bronte	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	6	0.4
+NSW	152	Wentworth	2301	Bronte	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	4	0.26
+NSW	152	Wentworth	2301	Bronte	32071	LEONG	Andrea	12	N	N	FUT	Science Party	12	-0.31
+NSW	152	Wentworth	2301	Bronte	32072	HEATH	Licia	13	N	N	IND	Independent	100	6.6
+NSW	152	Wentworth	2301	Bronte	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	4	-1.35
+NSW	152	Wentworth	2301	Bronte	32061	PHELPS	Kerryn	15	N	N	IND	Independent	489	32.28
+NSW	152	Wentworth	2301	Bronte	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	11	0.73
+NSW	152	Wentworth	2301	Bronte	999	Informal	Informal	999	N	N		Informal	88	2.31
+NSW	152	Wentworth	2305	Clovelly	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	5	0.31
+NSW	152	Wentworth	2305	Clovelly	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	175	-7.39
+NSW	152	Wentworth	2305	Clovelly	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	12	0.74
+NSW	152	Wentworth	2305	Clovelly	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	3	0.19
+NSW	152	Wentworth	2305	Clovelly	32070	MURRAY	Tim	5	N	N	ALP	Labor	237	-11.27
+NSW	152	Wentworth	2305	Clovelly	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	2	0.12
+NSW	152	Wentworth	2305	Clovelly	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.06
+NSW	152	Wentworth	2305	Clovelly	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	1	0.06
+NSW	152	Wentworth	2305	Clovelly	32073	SHARMA	Dave	9	N	N	LP	Liberal	480	-21.14
+NSW	152	Wentworth	2305	Clovelly	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	7	0.43
+NSW	152	Wentworth	2305	Clovelly	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	15	0.93
+NSW	152	Wentworth	2305	Clovelly	32071	LEONG	Andrea	12	N	N	FUT	Science Party	10	-0.68
+NSW	152	Wentworth	2305	Clovelly	32072	HEATH	Licia	13	N	N	IND	Independent	62	3.83
+NSW	152	Wentworth	2305	Clovelly	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	3	-1.82
+NSW	152	Wentworth	2305	Clovelly	32061	PHELPS	Kerryn	15	N	N	IND	Independent	599	37.02
+NSW	152	Wentworth	2305	Clovelly	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	6	0.37
+NSW	152	Wentworth	2305	Clovelly	999	Informal	Informal	999	N	N		Informal	140	4.58
+NSW	152	Wentworth	33787	Clovelly Beach	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	6	0.8
+NSW	152	Wentworth	33787	Clovelly Beach	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	99	-5.47
+NSW	152	Wentworth	33787	Clovelly Beach	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	4	0.53
+NSW	152	Wentworth	33787	Clovelly Beach	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.13
+NSW	152	Wentworth	33787	Clovelly Beach	32070	MURRAY	Tim	5	N	N	ALP	Labor	112	-13.23
+NSW	152	Wentworth	33787	Clovelly Beach	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	33787	Clovelly Beach	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.13
+NSW	152	Wentworth	33787	Clovelly Beach	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	3	0.4
+NSW	152	Wentworth	33787	Clovelly Beach	32073	SHARMA	Dave	9	N	N	LP	Liberal	189	-22.42
+NSW	152	Wentworth	33787	Clovelly Beach	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	3	0.4
+NSW	152	Wentworth	33787	Clovelly Beach	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	1	0.13
+NSW	152	Wentworth	33787	Clovelly Beach	32071	LEONG	Andrea	12	N	N	FUT	Science Party	11	0.5
+NSW	152	Wentworth	33787	Clovelly Beach	32072	HEATH	Licia	13	N	N	IND	Independent	14	1.86
+NSW	152	Wentworth	33787	Clovelly Beach	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	6	-1.93
+NSW	152	Wentworth	33787	Clovelly Beach	32061	PHELPS	Kerryn	15	N	N	IND	Independent	294	39.15
+NSW	152	Wentworth	33787	Clovelly Beach	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	7	0.93
+NSW	152	Wentworth	33787	Clovelly Beach	999	Informal	Informal	999	N	N		Informal	49	0.09
+NSW	152	Wentworth	2306	Clovelly North	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	9	0.8
+NSW	152	Wentworth	2306	Clovelly North	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	110	-5.35
+NSW	152	Wentworth	2306	Clovelly North	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	4	0.36
+NSW	152	Wentworth	2306	Clovelly North	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	2306	Clovelly North	32070	MURRAY	Tim	5	N	N	ALP	Labor	170	-12.34
+NSW	152	Wentworth	2306	Clovelly North	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	2306	Clovelly North	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.09
+NSW	152	Wentworth	2306	Clovelly North	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	9	0.8
+NSW	152	Wentworth	2306	Clovelly North	32073	SHARMA	Dave	9	N	N	LP	Liberal	404	-16.61
+NSW	152	Wentworth	2306	Clovelly North	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	8	0.71
+NSW	152	Wentworth	2306	Clovelly North	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	2	0.18
+NSW	152	Wentworth	2306	Clovelly North	32071	LEONG	Andrea	12	N	N	FUT	Science Party	9	0.01
+NSW	152	Wentworth	2306	Clovelly North	32072	HEATH	Licia	13	N	N	IND	Independent	37	3.29
+NSW	152	Wentworth	2306	Clovelly North	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	1	-1.85
+NSW	152	Wentworth	2306	Clovelly North	32061	PHELPS	Kerryn	15	N	N	IND	Independent	355	31.58
+NSW	152	Wentworth	2306	Clovelly North	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	5	0.44
+NSW	152	Wentworth	2306	Clovelly North	999	Informal	Informal	999	N	N		Informal	82	0.61
+NSW	152	Wentworth	2860	Darling Point	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	5	0.31
+NSW	152	Wentworth	2860	Darling Point	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	82	-4.17
+NSW	152	Wentworth	2860	Darling Point	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	13	0.8
+NSW	152	Wentworth	2860	Darling Point	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	2860	Darling Point	32070	MURRAY	Tim	5	N	N	ALP	Labor	90	-5.09
+NSW	152	Wentworth	2860	Darling Point	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	4	0.24
+NSW	152	Wentworth	2860	Darling Point	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	5	0.31
+NSW	152	Wentworth	2860	Darling Point	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	10	0.61
+NSW	152	Wentworth	2860	Darling Point	32073	SHARMA	Dave	9	N	N	LP	Liberal	887	-21.7
+NSW	152	Wentworth	2860	Darling Point	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	15	0.92
+NSW	152	Wentworth	2860	Darling Point	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	6	0.37
+NSW	152	Wentworth	2860	Darling Point	32071	LEONG	Andrea	12	N	N	FUT	Science Party	3	-0.64
+NSW	152	Wentworth	2860	Darling Point	32072	HEATH	Licia	13	N	N	IND	Independent	15	0.92
+NSW	152	Wentworth	2860	Darling Point	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	7	-0.92
+NSW	152	Wentworth	2860	Darling Point	32061	PHELPS	Kerryn	15	N	N	IND	Independent	487	29.79
+NSW	152	Wentworth	2860	Darling Point	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	6	0.37
+NSW	152	Wentworth	2860	Darling Point	999	Informal	Informal	999	N	N		Informal	94	-1.27
+NSW	152	Wentworth	82411	Darlinghurst East	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	3	0.41
+NSW	152	Wentworth	82411	Darlinghurst East	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	86	-11.62
+NSW	152	Wentworth	82411	Darlinghurst East	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	3	0.41
+NSW	152	Wentworth	82411	Darlinghurst East	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	82411	Darlinghurst East	32070	MURRAY	Tim	5	N	N	ALP	Labor	97	-9.72
+NSW	152	Wentworth	82411	Darlinghurst East	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	82411	Darlinghurst East	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	2	0.28
+NSW	152	Wentworth	82411	Darlinghurst East	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	1	0.14
+NSW	152	Wentworth	82411	Darlinghurst East	32073	SHARMA	Dave	9	N	N	LP	Liberal	162	-25.94
+NSW	152	Wentworth	82411	Darlinghurst East	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	12	1.65
+NSW	152	Wentworth	82411	Darlinghurst East	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	3	0.41
+NSW	152	Wentworth	82411	Darlinghurst East	32071	LEONG	Andrea	12	N	N	FUT	Science Party	4	-0.9
+NSW	152	Wentworth	82411	Darlinghurst East	32072	HEATH	Licia	13	N	N	IND	Independent	27	3.71
+NSW	152	Wentworth	82411	Darlinghurst East	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	4	-1.43
+NSW	152	Wentworth	82411	Darlinghurst East	32061	PHELPS	Kerryn	15	N	N	IND	Independent	320	44.02
+NSW	152	Wentworth	82411	Darlinghurst East	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	3	0.41
+NSW	152	Wentworth	82411	Darlinghurst East	999	Informal	Informal	999	N	N		Informal	39	1.9
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	1	2.27
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	8	18.18
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	0	0
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32070	MURRAY	Tim	5	N	N	ALP	Labor	10	22.73
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	0	0
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	1	2.27
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32073	SHARMA	Dave	9	N	N	LP	Liberal	9	20.45
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	0	0
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	0	0
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32071	LEONG	Andrea	12	N	N	FUT	Science Party	0	0
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32072	HEATH	Licia	13	N	N	IND	Independent	1	2.27
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	1	2.27
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32061	PHELPS	Kerryn	15	N	N	IND	Independent	13	29.55
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	0	0
+NSW	152	Wentworth	30143	Divisional Office (PREPOLL)	999	Informal	Informal	999	N	N		Informal	1	2.22
+NSW	152	Wentworth	2862	Double Bay	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	9	0.3
+NSW	152	Wentworth	2862	Double Bay	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	138	-5.24
+NSW	152	Wentworth	2862	Double Bay	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	16	0.53
+NSW	152	Wentworth	2862	Double Bay	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	2862	Double Bay	32070	MURRAY	Tim	5	N	N	ALP	Labor	209	-4.19
+NSW	152	Wentworth	2862	Double Bay	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	4	0.13
+NSW	152	Wentworth	2862	Double Bay	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	4	0.13
+NSW	152	Wentworth	2862	Double Bay	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	15	0.5
+NSW	152	Wentworth	2862	Double Bay	32073	SHARMA	Dave	9	N	N	LP	Liberal	1665	-19.35
+NSW	152	Wentworth	2862	Double Bay	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	31	1.03
+NSW	152	Wentworth	2862	Double Bay	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	22	0.73
+NSW	152	Wentworth	2862	Double Bay	32071	LEONG	Andrea	12	N	N	FUT	Science Party	6	-0.6
+NSW	152	Wentworth	2862	Double Bay	32072	HEATH	Licia	13	N	N	IND	Independent	34	1.13
+NSW	152	Wentworth	2862	Double Bay	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	5	-1.17
+NSW	152	Wentworth	2862	Double Bay	32061	PHELPS	Kerryn	15	N	N	IND	Independent	835	27.77
+NSW	152	Wentworth	2862	Double Bay	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	14	0.47
+NSW	152	Wentworth	2862	Double Bay	999	Informal	Informal	999	N	N		Informal	184	0.36
+NSW	152	Wentworth	83865	Double Bay East	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	1	0.3
+NSW	152	Wentworth	83865	Double Bay East	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	28	-1.55
+NSW	152	Wentworth	83865	Double Bay East	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	1	0.3
+NSW	152	Wentworth	83865	Double Bay East	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.3
+NSW	152	Wentworth	83865	Double Bay East	32070	MURRAY	Tim	5	N	N	ALP	Labor	30	-2.26
+NSW	152	Wentworth	83865	Double Bay East	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	83865	Double Bay East	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.3
+NSW	152	Wentworth	83865	Double Bay East	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	0	0
+NSW	152	Wentworth	83865	Double Bay East	32073	SHARMA	Dave	9	N	N	LP	Liberal	160	-27.38
+NSW	152	Wentworth	83865	Double Bay East	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	4	1.18
+NSW	152	Wentworth	83865	Double Bay East	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	2	0.59
+NSW	152	Wentworth	83865	Double Bay East	32071	LEONG	Andrea	12	N	N	FUT	Science Party	2	-0.21
+NSW	152	Wentworth	83865	Double Bay East	32072	HEATH	Licia	13	N	N	IND	Independent	4	1.18
+NSW	152	Wentworth	83865	Double Bay East	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	2	-0.75
+NSW	152	Wentworth	83865	Double Bay East	32061	PHELPS	Kerryn	15	N	N	IND	Independent	100	29.59
+NSW	152	Wentworth	83865	Double Bay East	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	2	0.59
+NSW	152	Wentworth	83865	Double Bay East	999	Informal	Informal	999	N	N		Informal	17	-0.62
+NSW	152	Wentworth	2303	Dover Heights	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	4	0.28
+NSW	152	Wentworth	2303	Dover Heights	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	63	-3.51
+NSW	152	Wentworth	2303	Dover Heights	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	5	0.35
+NSW	152	Wentworth	2303	Dover Heights	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	5	0.35
+NSW	152	Wentworth	2303	Dover Heights	32070	MURRAY	Tim	5	N	N	ALP	Labor	80	-5.03
+NSW	152	Wentworth	2303	Dover Heights	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	2	0.14
+NSW	152	Wentworth	2303	Dover Heights	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	0	0
+NSW	152	Wentworth	2303	Dover Heights	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	6	0.41
+NSW	152	Wentworth	2303	Dover Heights	32073	SHARMA	Dave	9	N	N	LP	Liberal	881	-16.7
+NSW	152	Wentworth	2303	Dover Heights	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	13	0.9
+NSW	152	Wentworth	2303	Dover Heights	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	8	0.55
+NSW	152	Wentworth	2303	Dover Heights	32071	LEONG	Andrea	12	N	N	FUT	Science Party	12	0.18
+NSW	152	Wentworth	2303	Dover Heights	32072	HEATH	Licia	13	N	N	IND	Independent	16	1.1
+NSW	152	Wentworth	2303	Dover Heights	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	3	-1.03
+NSW	152	Wentworth	2303	Dover Heights	32061	PHELPS	Kerryn	15	N	N	IND	Independent	344	23.74
+NSW	152	Wentworth	2303	Dover Heights	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	7	0.48
+NSW	152	Wentworth	2303	Dover Heights	999	Informal	Informal	999	N	N		Informal	116	0.17
+NSW	152	Wentworth	2865	Edgecliff	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	2	0.28
+NSW	152	Wentworth	2865	Edgecliff	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	49	-4.11
+NSW	152	Wentworth	2865	Edgecliff	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	3	0.42
+NSW	152	Wentworth	2865	Edgecliff	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.14
+NSW	152	Wentworth	2865	Edgecliff	32070	MURRAY	Tim	5	N	N	ALP	Labor	75	-2.41
+NSW	152	Wentworth	2865	Edgecliff	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	1	0.14
+NSW	152	Wentworth	2865	Edgecliff	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.14
+NSW	152	Wentworth	2865	Edgecliff	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	2	0.28
+NSW	152	Wentworth	2865	Edgecliff	32073	SHARMA	Dave	9	N	N	LP	Liberal	351	-22.14
+NSW	152	Wentworth	2865	Edgecliff	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	2	0.28
+NSW	152	Wentworth	2865	Edgecliff	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	1	0.14
+NSW	152	Wentworth	2865	Edgecliff	32071	LEONG	Andrea	12	N	N	FUT	Science Party	5	-0.14
+NSW	152	Wentworth	2865	Edgecliff	32072	HEATH	Licia	13	N	N	IND	Independent	21	2.91
+NSW	152	Wentworth	2865	Edgecliff	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	7	-0.22
+NSW	152	Wentworth	2865	Edgecliff	32061	PHELPS	Kerryn	15	N	N	IND	Independent	200	27.74
+NSW	152	Wentworth	2865	Edgecliff	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	0	0
+NSW	152	Wentworth	2865	Edgecliff	999	Informal	Informal	999	N	N		Informal	35	0.32
+NSW	152	Wentworth	2877	Elizabeth Bay	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	5	0.28
+NSW	152	Wentworth	2877	Elizabeth Bay	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	176	-11.54
+NSW	152	Wentworth	2877	Elizabeth Bay	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	6	0.34
+NSW	152	Wentworth	2877	Elizabeth Bay	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.06
+NSW	152	Wentworth	2877	Elizabeth Bay	32070	MURRAY	Tim	5	N	N	ALP	Labor	217	-14.81
+NSW	152	Wentworth	2877	Elizabeth Bay	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	2	0.11
+NSW	152	Wentworth	2877	Elizabeth Bay	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	2	0.11
+NSW	152	Wentworth	2877	Elizabeth Bay	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	8	0.45
+NSW	152	Wentworth	2877	Elizabeth Bay	32073	SHARMA	Dave	9	N	N	LP	Liberal	440	-22.4
+NSW	152	Wentworth	2877	Elizabeth Bay	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	8	0.45
+NSW	152	Wentworth	2877	Elizabeth Bay	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	7	0.4
+NSW	152	Wentworth	2877	Elizabeth Bay	32071	LEONG	Andrea	12	N	N	FUT	Science Party	18	-0.19
+NSW	152	Wentworth	2877	Elizabeth Bay	32072	HEATH	Licia	13	N	N	IND	Independent	69	3.92
+NSW	152	Wentworth	2877	Elizabeth Bay	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	18	-0.36
+NSW	152	Wentworth	2877	Elizabeth Bay	32061	PHELPS	Kerryn	15	N	N	IND	Independent	783	44.44
+NSW	152	Wentworth	2877	Elizabeth Bay	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	2	0.11
+NSW	152	Wentworth	2877	Elizabeth Bay	999	Informal	Informal	999	N	N		Informal	90	-0.44
+NSW	152	Wentworth	65694	Haymarket PPVC	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	3	0.28
+NSW	152	Wentworth	65694	Haymarket PPVC	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	121	-9.48
+NSW	152	Wentworth	65694	Haymarket PPVC	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	4	0.37
+NSW	152	Wentworth	65694	Haymarket PPVC	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	65694	Haymarket PPVC	32070	MURRAY	Tim	5	N	N	ALP	Labor	180	-5.75
+NSW	152	Wentworth	65694	Haymarket PPVC	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	2	0.19
+NSW	152	Wentworth	65694	Haymarket PPVC	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	5	0.46
+NSW	152	Wentworth	65694	Haymarket PPVC	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	4	0.37
+NSW	152	Wentworth	65694	Haymarket PPVC	32073	SHARMA	Dave	9	N	N	LP	Liberal	341	-20.27
+NSW	152	Wentworth	65694	Haymarket PPVC	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	16	1.48
+NSW	152	Wentworth	65694	Haymarket PPVC	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	4	0.37
+NSW	152	Wentworth	65694	Haymarket PPVC	32071	LEONG	Andrea	12	N	N	FUT	Science Party	9	-0.04
+NSW	152	Wentworth	65694	Haymarket PPVC	32072	HEATH	Licia	13	N	N	IND	Independent	46	4.27
+NSW	152	Wentworth	65694	Haymarket PPVC	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	4	-1.96
+NSW	152	Wentworth	65694	Haymarket PPVC	32061	PHELPS	Kerryn	15	N	N	IND	Independent	330	30.61
+NSW	152	Wentworth	65694	Haymarket PPVC	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	9	0.83
+NSW	152	Wentworth	65694	Haymarket PPVC	999	Informal	Informal	999	N	N		Informal	64	0.88
+NSW	152	Wentworth	2882	Kings Cross Central	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	3	0.29
+NSW	152	Wentworth	2882	Kings Cross Central	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	109	-10.98
+NSW	152	Wentworth	2882	Kings Cross Central	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	5	0.48
+NSW	152	Wentworth	2882	Kings Cross Central	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.1
+NSW	152	Wentworth	2882	Kings Cross Central	32070	MURRAY	Tim	5	N	N	ALP	Labor	133	-15.46
+NSW	152	Wentworth	2882	Kings Cross Central	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	1	0.1
+NSW	152	Wentworth	2882	Kings Cross Central	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.1
+NSW	152	Wentworth	2882	Kings Cross Central	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	1	0.1
+NSW	152	Wentworth	2882	Kings Cross Central	32073	SHARMA	Dave	9	N	N	LP	Liberal	260	-20.48
+NSW	152	Wentworth	2882	Kings Cross Central	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	13	1.26
+NSW	152	Wentworth	2882	Kings Cross Central	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	8	0.77
+NSW	152	Wentworth	2882	Kings Cross Central	32071	LEONG	Andrea	12	N	N	FUT	Science Party	13	-0.29
+NSW	152	Wentworth	2882	Kings Cross Central	32072	HEATH	Licia	13	N	N	IND	Independent	34	3.29
+NSW	152	Wentworth	2882	Kings Cross Central	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	7	-0.35
+NSW	152	Wentworth	2882	Kings Cross Central	32061	PHELPS	Kerryn	15	N	N	IND	Independent	440	42.59
+NSW	152	Wentworth	2882	Kings Cross Central	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	4	0.39
+NSW	152	Wentworth	2882	Kings Cross Central	999	Informal	Informal	999	N	N		Informal	52	1.3
+NSW	152	Wentworth	2867	Paddington Central	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	17	0.74
+NSW	152	Wentworth	2867	Paddington Central	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	189	-8.26
+NSW	152	Wentworth	2867	Paddington Central	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	16	0.7
+NSW	152	Wentworth	2867	Paddington Central	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	3	0.13
+NSW	152	Wentworth	2867	Paddington Central	32070	MURRAY	Tim	5	N	N	ALP	Labor	229	-7.38
+NSW	152	Wentworth	2867	Paddington Central	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	3	0.13
+NSW	152	Wentworth	2867	Paddington Central	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	4	0.17
+NSW	152	Wentworth	2867	Paddington Central	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	11	0.48
+NSW	152	Wentworth	2867	Paddington Central	32073	SHARMA	Dave	9	N	N	LP	Liberal	771	-26.78
+NSW	152	Wentworth	2867	Paddington Central	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	13	0.57
+NSW	152	Wentworth	2867	Paddington Central	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	11	0.48
+NSW	152	Wentworth	2867	Paddington Central	32071	LEONG	Andrea	12	N	N	FUT	Science Party	13	-1.28
+NSW	152	Wentworth	2867	Paddington Central	32072	HEATH	Licia	13	N	N	IND	Independent	82	3.58
+NSW	152	Wentworth	2867	Paddington Central	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	11	-1.46
+NSW	152	Wentworth	2867	Paddington Central	32061	PHELPS	Kerryn	15	N	N	IND	Independent	907	39.62
+NSW	152	Wentworth	2867	Paddington Central	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	9	0.39
+NSW	152	Wentworth	2867	Paddington Central	999	Informal	Informal	999	N	N		Informal	139	1.5
+NSW	152	Wentworth	83719	Paddington North	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	14	0.72
+NSW	152	Wentworth	83719	Paddington North	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	192	-6.64
+NSW	152	Wentworth	83719	Paddington North	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	10	0.51
+NSW	152	Wentworth	83719	Paddington North	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	83719	Paddington North	32070	MURRAY	Tim	5	N	N	ALP	Labor	237	-5.19
+NSW	152	Wentworth	83719	Paddington North	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	4	0.21
+NSW	152	Wentworth	83719	Paddington North	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	4	0.21
+NSW	152	Wentworth	83719	Paddington North	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	9	0.46
+NSW	152	Wentworth	83719	Paddington North	32073	SHARMA	Dave	9	N	N	LP	Liberal	573	-30.98
+NSW	152	Wentworth	83719	Paddington North	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	26	1.34
+NSW	152	Wentworth	83719	Paddington North	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	20	1.03
+NSW	152	Wentworth	83719	Paddington North	32071	LEONG	Andrea	12	N	N	FUT	Science Party	13	-1.18
+NSW	152	Wentworth	83719	Paddington North	32072	HEATH	Licia	13	N	N	IND	Independent	60	3.09
+NSW	152	Wentworth	83719	Paddington North	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	13	-1.27
+NSW	152	Wentworth	83719	Paddington North	32061	PHELPS	Kerryn	15	N	N	IND	Independent	756	38.89
+NSW	152	Wentworth	83719	Paddington North	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	13	0.67
+NSW	152	Wentworth	83719	Paddington North	999	Informal	Informal	999	N	N		Informal	124	1.78
+NSW	152	Wentworth	89903	Paddington PPVC	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	15	0.46
+NSW	152	Wentworth	89903	Paddington PPVC	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	281	-7.37
+NSW	152	Wentworth	89903	Paddington PPVC	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	24	0.74
+NSW	152	Wentworth	89903	Paddington PPVC	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	4	0.12
+NSW	152	Wentworth	89903	Paddington PPVC	32070	MURRAY	Tim	5	N	N	ALP	Labor	536	-3.73
+NSW	152	Wentworth	89903	Paddington PPVC	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	4	0.12
+NSW	152	Wentworth	89903	Paddington PPVC	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	6	0.18
+NSW	152	Wentworth	89903	Paddington PPVC	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	10	0.31
+NSW	152	Wentworth	89903	Paddington PPVC	32073	SHARMA	Dave	9	N	N	LP	Liberal	1196	-20.91
+NSW	152	Wentworth	89903	Paddington PPVC	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	63	1.93
+NSW	152	Wentworth	89903	Paddington PPVC	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	16	0.49
+NSW	152	Wentworth	89903	Paddington PPVC	32071	LEONG	Andrea	12	N	N	FUT	Science Party	23	-0.91
+NSW	152	Wentworth	89903	Paddington PPVC	32072	HEATH	Licia	13	N	N	IND	Independent	96	2.94
+NSW	152	Wentworth	89903	Paddington PPVC	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	16	-1.71
+NSW	152	Wentworth	89903	Paddington PPVC	32061	PHELPS	Kerryn	15	N	N	IND	Independent	950	29.13
+NSW	152	Wentworth	89903	Paddington PPVC	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	21	0.64
+NSW	152	Wentworth	89903	Paddington PPVC	999	Informal	Informal	999	N	N		Informal	163	-0.45
+NSW	152	Wentworth	2874	Paddington South	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	4	0.39
+NSW	152	Wentworth	2874	Paddington South	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	99	-6.45
+NSW	152	Wentworth	2874	Paddington South	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	7	0.68
+NSW	152	Wentworth	2874	Paddington South	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	2	0.2
+NSW	152	Wentworth	2874	Paddington South	32070	MURRAY	Tim	5	N	N	ALP	Labor	151	-5.8
+NSW	152	Wentworth	2874	Paddington South	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	2874	Paddington South	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	2	0.2
+NSW	152	Wentworth	2874	Paddington South	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	3	0.29
+NSW	152	Wentworth	2874	Paddington South	32073	SHARMA	Dave	9	N	N	LP	Liberal	306	-26.48
+NSW	152	Wentworth	2874	Paddington South	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	13	1.27
+NSW	152	Wentworth	2874	Paddington South	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	10	0.98
+NSW	152	Wentworth	2874	Paddington South	32071	LEONG	Andrea	12	N	N	FUT	Science Party	19	-0.39
+NSW	152	Wentworth	2874	Paddington South	32072	HEATH	Licia	13	N	N	IND	Independent	28	2.74
+NSW	152	Wentworth	2874	Paddington South	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	1	-2.93
+NSW	152	Wentworth	2874	Paddington South	32061	PHELPS	Kerryn	15	N	N	IND	Independent	366	35.81
+NSW	152	Wentworth	2874	Paddington South	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	11	1.08
+NSW	152	Wentworth	2874	Paddington South	999	Informal	Informal	999	N	N		Informal	59	-0.39
+NSW	152	Wentworth	2323	Randwick North	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	11	0.49
+NSW	152	Wentworth	2323	Randwick North	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	197	-6.13
+NSW	152	Wentworth	2323	Randwick North	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	16	0.72
+NSW	152	Wentworth	2323	Randwick North	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	2	0.09
+NSW	152	Wentworth	2323	Randwick North	32070	MURRAY	Tim	5	N	N	ALP	Labor	375	-8.7
+NSW	152	Wentworth	2323	Randwick North	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	3	0.13
+NSW	152	Wentworth	2323	Randwick North	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	6	0.27
+NSW	152	Wentworth	2323	Randwick North	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	8	0.36
+NSW	152	Wentworth	2323	Randwick North	32073	SHARMA	Dave	9	N	N	LP	Liberal	766	-19.17
+NSW	152	Wentworth	2323	Randwick North	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	25	1.12
+NSW	152	Wentworth	2323	Randwick North	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	15	0.67
+NSW	152	Wentworth	2323	Randwick North	32071	LEONG	Andrea	12	N	N	FUT	Science Party	23	0.1
+NSW	152	Wentworth	2323	Randwick North	32072	HEATH	Licia	13	N	N	IND	Independent	44	1.98
+NSW	152	Wentworth	2323	Randwick North	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	9	-2.09
+NSW	152	Wentworth	2323	Randwick North	32061	PHELPS	Kerryn	15	N	N	IND	Independent	708	31.83
+NSW	152	Wentworth	2323	Randwick North	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	16	0.72
+NSW	152	Wentworth	2323	Randwick North	999	Informal	Informal	999	N	N		Informal	186	2.31
+NSW	152	Wentworth	2880	Rose Bay	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	10	0.56
+NSW	152	Wentworth	2880	Rose Bay	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	99	-4.85
+NSW	152	Wentworth	2880	Rose Bay	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	10	0.56
+NSW	152	Wentworth	2880	Rose Bay	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.06
+NSW	152	Wentworth	2880	Rose Bay	32070	MURRAY	Tim	5	N	N	ALP	Labor	125	-9.13
+NSW	152	Wentworth	2880	Rose Bay	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	1	0.06
+NSW	152	Wentworth	2880	Rose Bay	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	5	0.28
+NSW	152	Wentworth	2880	Rose Bay	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	6	0.34
+NSW	152	Wentworth	2880	Rose Bay	32073	SHARMA	Dave	9	N	N	LP	Liberal	876	-20.23
+NSW	152	Wentworth	2880	Rose Bay	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	32	1.8
+NSW	152	Wentworth	2880	Rose Bay	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	7	0.39
+NSW	152	Wentworth	2880	Rose Bay	32071	LEONG	Andrea	12	N	N	FUT	Science Party	5	-1.01
+NSW	152	Wentworth	2880	Rose Bay	32072	HEATH	Licia	13	N	N	IND	Independent	38	2.13
+NSW	152	Wentworth	2880	Rose Bay	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	6	-0.58
+NSW	152	Wentworth	2880	Rose Bay	32061	PHELPS	Kerryn	15	N	N	IND	Independent	547	30.73
+NSW	152	Wentworth	2880	Rose Bay	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	12	0.67
+NSW	152	Wentworth	2880	Rose Bay	999	Informal	Informal	999	N	N		Informal	139	0.59
+NSW	152	Wentworth	2881	Rose Bay Central	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	7	0.65
+NSW	152	Wentworth	2881	Rose Bay Central	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	56	-3.98
+NSW	152	Wentworth	2881	Rose Bay Central	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	10	0.93
+NSW	152	Wentworth	2881	Rose Bay Central	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	2	0.19
+NSW	152	Wentworth	2881	Rose Bay Central	32070	MURRAY	Tim	5	N	N	ALP	Labor	54	-3.88
+NSW	152	Wentworth	2881	Rose Bay Central	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	3	0.28
+NSW	152	Wentworth	2881	Rose Bay Central	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	4	0.37
+NSW	152	Wentworth	2881	Rose Bay Central	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	8	0.74
+NSW	152	Wentworth	2881	Rose Bay Central	32073	SHARMA	Dave	9	N	N	LP	Liberal	579	-22.97
+NSW	152	Wentworth	2881	Rose Bay Central	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	20	1.85
+NSW	152	Wentworth	2881	Rose Bay Central	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	6	0.56
+NSW	152	Wentworth	2881	Rose Bay Central	32071	LEONG	Andrea	12	N	N	FUT	Science Party	4	-0.44
+NSW	152	Wentworth	2881	Rose Bay Central	32072	HEATH	Licia	13	N	N	IND	Independent	16	1.48
+NSW	152	Wentworth	2881	Rose Bay Central	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	2	-1.66
+NSW	152	Wentworth	2881	Rose Bay Central	32061	PHELPS	Kerryn	15	N	N	IND	Independent	304	28.17
+NSW	152	Wentworth	2881	Rose Bay Central	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	4	0.37
+NSW	152	Wentworth	2881	Rose Bay Central	999	Informal	Informal	999	N	N		Informal	65	-1.14
+NSW	152	Wentworth	89902	Rose Bay PPVC	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	32	0.5
+NSW	152	Wentworth	89902	Rose Bay PPVC	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	278	-7.71
+NSW	152	Wentworth	89902	Rose Bay PPVC	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	37	0.58
+NSW	152	Wentworth	89902	Rose Bay PPVC	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	2	0.03
+NSW	152	Wentworth	89902	Rose Bay PPVC	32070	MURRAY	Tim	5	N	N	ALP	Labor	440	-8.46
+NSW	152	Wentworth	89902	Rose Bay PPVC	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	14	0.22
+NSW	152	Wentworth	89902	Rose Bay PPVC	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	8	0.13
+NSW	152	Wentworth	89902	Rose Bay PPVC	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	11	0.17
+NSW	152	Wentworth	89902	Rose Bay PPVC	32073	SHARMA	Dave	9	N	N	LP	Liberal	4169	-1.9
+NSW	152	Wentworth	89902	Rose Bay PPVC	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	79	1.24
+NSW	152	Wentworth	89902	Rose Bay PPVC	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	14	0.22
+NSW	152	Wentworth	89902	Rose Bay PPVC	32071	LEONG	Andrea	12	N	N	FUT	Science Party	23	-0.73
+NSW	152	Wentworth	89902	Rose Bay PPVC	32072	HEATH	Licia	13	N	N	IND	Independent	72	1.13
+NSW	152	Wentworth	89902	Rose Bay PPVC	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	10	-1.38
+NSW	152	Wentworth	89902	Rose Bay PPVC	32061	PHELPS	Kerryn	15	N	N	IND	Independent	1149	18.05
+NSW	152	Wentworth	89902	Rose Bay PPVC	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	27	0.42
+NSW	152	Wentworth	89902	Rose Bay PPVC	999	Informal	Informal	999	N	N		Informal	416	0.02
+NSW	152	Wentworth	33641	Special Hospital Team 1	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	3	1.08
+NSW	152	Wentworth	33641	Special Hospital Team 1	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	1	-2.24
+NSW	152	Wentworth	33641	Special Hospital Team 1	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	1	0.36
+NSW	152	Wentworth	33641	Special Hospital Team 1	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.36
+NSW	152	Wentworth	33641	Special Hospital Team 1	32070	MURRAY	Tim	5	N	N	ALP	Labor	33	-5.05
+NSW	152	Wentworth	33641	Special Hospital Team 1	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	33641	Special Hospital Team 1	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	0	0
+NSW	152	Wentworth	33641	Special Hospital Team 1	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	4	1.43
+NSW	152	Wentworth	33641	Special Hospital Team 1	32073	SHARMA	Dave	9	N	N	LP	Liberal	210	-1.35
+NSW	152	Wentworth	33641	Special Hospital Team 1	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	0	0
+NSW	152	Wentworth	33641	Special Hospital Team 1	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	1	0.36
+NSW	152	Wentworth	33641	Special Hospital Team 1	32071	LEONG	Andrea	12	N	N	FUT	Science Party	0	-0.52
+NSW	152	Wentworth	33641	Special Hospital Team 1	32072	HEATH	Licia	13	N	N	IND	Independent	1	0.36
+NSW	152	Wentworth	33641	Special Hospital Team 1	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	0	-0.52
+NSW	152	Wentworth	33641	Special Hospital Team 1	32061	PHELPS	Kerryn	15	N	N	IND	Independent	23	8.24
+NSW	152	Wentworth	33641	Special Hospital Team 1	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	1	0.36
+NSW	152	Wentworth	33641	Special Hospital Team 1	999	Informal	Informal	999	N	N		Informal	46	6.48
+NSW	152	Wentworth	66031	Special Hospital Team 2	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	2	4.88
+NSW	152	Wentworth	66031	Special Hospital Team 2	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	1	-0.16
+NSW	152	Wentworth	66031	Special Hospital Team 2	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	0	0
+NSW	152	Wentworth	66031	Special Hospital Team 2	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	66031	Special Hospital Team 2	32070	MURRAY	Tim	5	N	N	ALP	Labor	5	-4.68
+NSW	152	Wentworth	66031	Special Hospital Team 2	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	66031	Special Hospital Team 2	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	0	0
+NSW	152	Wentworth	66031	Special Hospital Team 2	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	1	2.44
+NSW	152	Wentworth	66031	Special Hospital Team 2	32073	SHARMA	Dave	9	N	N	LP	Liberal	27	-10.77
+NSW	152	Wentworth	66031	Special Hospital Team 2	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	0	0
+NSW	152	Wentworth	66031	Special Hospital Team 2	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	0	0
+NSW	152	Wentworth	66031	Special Hospital Team 2	32071	LEONG	Andrea	12	N	N	FUT	Science Party	0	-0.52
+NSW	152	Wentworth	66031	Special Hospital Team 2	32072	HEATH	Licia	13	N	N	IND	Independent	0	0
+NSW	152	Wentworth	66031	Special Hospital Team 2	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	0	-0.52
+NSW	152	Wentworth	66031	Special Hospital Team 2	32061	PHELPS	Kerryn	15	N	N	IND	Independent	4	9.76
+NSW	152	Wentworth	66031	Special Hospital Team 2	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	1	2.44
+NSW	152	Wentworth	66031	Special Hospital Team 2	999	Informal	Informal	999	N	N		Informal	4	1.22
+NSW	152	Wentworth	2889	Vaucluse	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	5	1
+NSW	152	Wentworth	2889	Vaucluse	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	21	-1.42
+NSW	152	Wentworth	2889	Vaucluse	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	1	0.2
+NSW	152	Wentworth	2889	Vaucluse	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	2889	Vaucluse	32070	MURRAY	Tim	5	N	N	ALP	Labor	30	2.42
+NSW	152	Wentworth	2889	Vaucluse	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	2889	Vaucluse	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.2
+NSW	152	Wentworth	2889	Vaucluse	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	4	0.8
+NSW	152	Wentworth	2889	Vaucluse	32073	SHARMA	Dave	9	N	N	LP	Liberal	317	-22.93
+NSW	152	Wentworth	2889	Vaucluse	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	13	2.6
+NSW	152	Wentworth	2889	Vaucluse	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	1	0.2
+NSW	152	Wentworth	2889	Vaucluse	32071	LEONG	Andrea	12	N	N	FUT	Science Party	1	-0.18
+NSW	152	Wentworth	2889	Vaucluse	32072	HEATH	Licia	13	N	N	IND	Independent	5	1
+NSW	152	Wentworth	2889	Vaucluse	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	1	-0.44
+NSW	152	Wentworth	2889	Vaucluse	32061	PHELPS	Kerryn	15	N	N	IND	Independent	99	19.8
+NSW	152	Wentworth	2889	Vaucluse	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	1	0.2
+NSW	152	Wentworth	2889	Vaucluse	999	Informal	Informal	999	N	N		Informal	27	-1.33
+NSW	152	Wentworth	2861	Vaucluse East	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	5	0.29
+NSW	152	Wentworth	2861	Vaucluse East	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	115	-2.89
+NSW	152	Wentworth	2861	Vaucluse East	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	8	0.46
+NSW	152	Wentworth	2861	Vaucluse East	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	1	0.06
+NSW	152	Wentworth	2861	Vaucluse East	32070	MURRAY	Tim	5	N	N	ALP	Labor	106	-5.72
+NSW	152	Wentworth	2861	Vaucluse East	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	5	0.29
+NSW	152	Wentworth	2861	Vaucluse East	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	2	0.11
+NSW	152	Wentworth	2861	Vaucluse East	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	6	0.34
+NSW	152	Wentworth	2861	Vaucluse East	32073	SHARMA	Dave	9	N	N	LP	Liberal	1007	-17.7
+NSW	152	Wentworth	2861	Vaucluse East	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	19	1.08
+NSW	152	Wentworth	2861	Vaucluse East	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	6	0.34
+NSW	152	Wentworth	2861	Vaucluse East	32071	LEONG	Andrea	12	N	N	FUT	Science Party	8	-0.47
+NSW	152	Wentworth	2861	Vaucluse East	32072	HEATH	Licia	13	N	N	IND	Independent	20	1.14
+NSW	152	Wentworth	2861	Vaucluse East	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	3	-0.82
+NSW	152	Wentworth	2861	Vaucluse East	32061	PHELPS	Kerryn	15	N	N	IND	Independent	437	24.91
+NSW	152	Wentworth	2861	Vaucluse East	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	6	0.34
+NSW	152	Wentworth	2861	Vaucluse East	999	Informal	Informal	999	N	N		Informal	115	0.06
+NSW	152	Wentworth	2890	Watsons Bay	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	4	0.52
+NSW	152	Wentworth	2890	Watsons Bay	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	65	-2.91
+NSW	152	Wentworth	2890	Watsons Bay	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	10	1.31
+NSW	152	Wentworth	2890	Watsons Bay	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	2890	Watsons Bay	32070	MURRAY	Tim	5	N	N	ALP	Labor	60	-4.71
+NSW	152	Wentworth	2890	Watsons Bay	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	4	0.52
+NSW	152	Wentworth	2890	Watsons Bay	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.13
+NSW	152	Wentworth	2890	Watsons Bay	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	2	0.26
+NSW	152	Wentworth	2890	Watsons Bay	32073	SHARMA	Dave	9	N	N	LP	Liberal	352	-24.14
+NSW	152	Wentworth	2890	Watsons Bay	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	4	0.52
+NSW	152	Wentworth	2890	Watsons Bay	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	3	0.39
+NSW	152	Wentworth	2890	Watsons Bay	32071	LEONG	Andrea	12	N	N	FUT	Science Party	3	-0.52
+NSW	152	Wentworth	2890	Watsons Bay	32072	HEATH	Licia	13	N	N	IND	Independent	16	2.09
+NSW	152	Wentworth	2890	Watsons Bay	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	3	-1.78
+NSW	152	Wentworth	2890	Watsons Bay	32061	PHELPS	Kerryn	15	N	N	IND	Independent	234	30.63
+NSW	152	Wentworth	2890	Watsons Bay	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	3	0.39
+NSW	152	Wentworth	2890	Watsons Bay	999	Informal	Informal	999	N	N		Informal	34	-2.25
+NSW	152	Wentworth	2891	Waverley	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	8	0.46
+NSW	152	Wentworth	2891	Waverley	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	199	-5.42
+NSW	152	Wentworth	2891	Waverley	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	15	0.86
+NSW	152	Wentworth	2891	Waverley	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	4	0.23
+NSW	152	Wentworth	2891	Waverley	32070	MURRAY	Tim	5	N	N	ALP	Labor	260	-9.36
+NSW	152	Wentworth	2891	Waverley	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	5	0.29
+NSW	152	Wentworth	2891	Waverley	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	4	0.23
+NSW	152	Wentworth	2891	Waverley	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	9	0.51
+NSW	152	Wentworth	2891	Waverley	32073	SHARMA	Dave	9	N	N	LP	Liberal	545	-22.29
+NSW	152	Wentworth	2891	Waverley	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	27	1.54
+NSW	152	Wentworth	2891	Waverley	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	12	0.68
+NSW	152	Wentworth	2891	Waverley	32071	LEONG	Andrea	12	N	N	FUT	Science Party	11	-0.94
+NSW	152	Wentworth	2891	Waverley	32072	HEATH	Licia	13	N	N	IND	Independent	51	2.91
+NSW	152	Wentworth	2891	Waverley	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	7	-1.42
+NSW	152	Wentworth	2891	Waverley	32061	PHELPS	Kerryn	15	N	N	IND	Independent	583	33.26
+NSW	152	Wentworth	2891	Waverley	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	13	0.74
+NSW	152	Wentworth	2891	Waverley	999	Informal	Informal	999	N	N		Informal	111	-0.52
+NSW	152	Wentworth	2299	Waverley North	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	6	0.64
+NSW	152	Wentworth	2299	Waverley North	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	90	-9.34
+NSW	152	Wentworth	2299	Waverley North	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	1	0.11
+NSW	152	Wentworth	2299	Waverley North	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	2299	Waverley North	32070	MURRAY	Tim	5	N	N	ALP	Labor	103	-9.63
+NSW	152	Wentworth	2299	Waverley North	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	1	0.11
+NSW	152	Wentworth	2299	Waverley North	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	1	0.11
+NSW	152	Wentworth	2299	Waverley North	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	6	0.64
+NSW	152	Wentworth	2299	Waverley North	32073	SHARMA	Dave	9	N	N	LP	Liberal	344	-18.05
+NSW	152	Wentworth	2299	Waverley North	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	11	1.17
+NSW	152	Wentworth	2299	Waverley North	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	8	0.85
+NSW	152	Wentworth	2299	Waverley North	32071	LEONG	Andrea	12	N	N	FUT	Science Party	8	-0.74
+NSW	152	Wentworth	2299	Waverley North	32072	HEATH	Licia	13	N	N	IND	Independent	24	2.56
+NSW	152	Wentworth	2299	Waverley North	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	5	-1.22
+NSW	152	Wentworth	2299	Waverley North	32061	PHELPS	Kerryn	15	N	N	IND	Independent	325	34.69
+NSW	152	Wentworth	2299	Waverley North	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	4	0.43
+NSW	152	Wentworth	2299	Waverley North	999	Informal	Informal	999	N	N		Informal	63	1
+NSW	152	Wentworth	33957	Waverley PPVC	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	45	0.68
+NSW	152	Wentworth	33957	Waverley PPVC	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	700	-1.37
+NSW	152	Wentworth	33957	Waverley PPVC	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	56	0.84
+NSW	152	Wentworth	33957	Waverley PPVC	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	9	0.14
+NSW	152	Wentworth	33957	Waverley PPVC	32070	MURRAY	Tim	5	N	N	ALP	Labor	1079	1.05
+NSW	152	Wentworth	33957	Waverley PPVC	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	11	0.17
+NSW	152	Wentworth	33957	Waverley PPVC	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	23	0.35
+NSW	152	Wentworth	33957	Waverley PPVC	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	21	0.32
+NSW	152	Wentworth	33957	Waverley PPVC	32073	SHARMA	Dave	9	N	N	LP	Liberal	2890	-25.04
+NSW	152	Wentworth	33957	Waverley PPVC	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	66	0.99
+NSW	152	Wentworth	33957	Waverley PPVC	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	33	0.5
+NSW	152	Wentworth	33957	Waverley PPVC	32071	LEONG	Andrea	12	N	N	FUT	Science Party	40	-0.41
+NSW	152	Wentworth	33957	Waverley PPVC	32072	HEATH	Licia	13	N	N	IND	Independent	149	2.24
+NSW	152	Wentworth	33957	Waverley PPVC	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	28	-0.84
+NSW	152	Wentworth	33957	Waverley PPVC	32061	PHELPS	Kerryn	15	N	N	IND	Independent	1472	22.13
+NSW	152	Wentworth	33957	Waverley PPVC	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	29	0.44
+NSW	152	Wentworth	33957	Waverley PPVC	999	Informal	Informal	999	N	N		Informal	455	0.43
+NSW	152	Wentworth	2892	Woollahra	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	6	0.43
+NSW	152	Wentworth	2892	Woollahra	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	92	-7.58
+NSW	152	Wentworth	2892	Woollahra	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	11	0.8
+NSW	152	Wentworth	2892	Woollahra	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	2	0.14
+NSW	152	Wentworth	2892	Woollahra	32070	MURRAY	Tim	5	N	N	ALP	Labor	127	-5.86
+NSW	152	Wentworth	2892	Woollahra	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	3	0.22
+NSW	152	Wentworth	2892	Woollahra	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	4	0.29
+NSW	152	Wentworth	2892	Woollahra	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	5	0.36
+NSW	152	Wentworth	2892	Woollahra	32073	SHARMA	Dave	9	N	N	LP	Liberal	584	-24.51
+NSW	152	Wentworth	2892	Woollahra	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	16	1.16
+NSW	152	Wentworth	2892	Woollahra	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	3	0.22
+NSW	152	Wentworth	2892	Woollahra	32071	LEONG	Andrea	12	N	N	FUT	Science Party	8	-0.25
+NSW	152	Wentworth	2892	Woollahra	32072	HEATH	Licia	13	N	N	IND	Independent	48	3.48
+NSW	152	Wentworth	2892	Woollahra	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	7	-0.79
+NSW	152	Wentworth	2892	Woollahra	32061	PHELPS	Kerryn	15	N	N	IND	Independent	456	33.02
+NSW	152	Wentworth	2892	Woollahra	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	9	0.65
+NSW	152	Wentworth	2892	Woollahra	999	Informal	Informal	999	N	N		Informal	76	1.74
+NSW	152	Wentworth	2868	Woollahra South	32063	CALLANAN	Robert	1	N	N	KAP	Katter's Australian Party	4	0.45
+NSW	152	Wentworth	2868	Woollahra South	32065	KANAK	Dominic Wy	2	N	N	GRN	The Greens	50	-6.71
+NSW	152	Wentworth	2868	Woollahra South	32068	HIGSON	Shayne	3	N	N	VEP	Voluntary Euthanasia Party	9	1.02
+NSW	152	Wentworth	2868	Woollahra South	32067	GEORGANTIS	Steven	4	N	N	APEP	Australian People's Party	0	0
+NSW	152	Wentworth	2868	Woollahra South	32070	MURRAY	Tim	5	N	N	ALP	Labor	101	-6.45
+NSW	152	Wentworth	2868	Woollahra South	32062	FORSYTH	Ben	6	N	N	DHJP	Derryn Hinch's Justice Party	0	0
+NSW	152	Wentworth	2868	Woollahra South	32075	ROBINSON	Tony	7	N	N	ALA	Australian Liberty Alliance	2	0.23
+NSW	152	Wentworth	2868	Woollahra South	32074	GUNNING	Samuel Joseph	8	N	N	LDP	Liberal Democrats	1	0.11
+NSW	152	Wentworth	2868	Woollahra South	32073	SHARMA	Dave	9	N	N	LP	Liberal	340	-27.14
+NSW	152	Wentworth	2868	Woollahra South	32060	VITHOULKAS	Angela	10	N	N	IND	Independent	7	0.79
+NSW	152	Wentworth	2868	Woollahra South	32069	DOYLE	Deb	11	N	N	AJP	Animal Justice Party	0	0
+NSW	152	Wentworth	2868	Woollahra South	32071	LEONG	Andrea	12	N	N	FUT	Science Party	2	-0.53
+NSW	152	Wentworth	2868	Woollahra South	32072	HEATH	Licia	13	N	N	IND	Independent	31	3.51
+NSW	152	Wentworth	2868	Woollahra South	32066	KELDOULIS	Barry	14	N	N	TAP	The Arts Party	6	-1.32
+NSW	152	Wentworth	2868	Woollahra South	32061	PHELPS	Kerryn	15	N	N	IND	Independent	327	37.03
+NSW	152	Wentworth	2868	Woollahra South	32064	DUNNE	Kay	16	N	N	SPP	Sustainable Australia	3	0.34
+NSW	152	Wentworth	2868	Woollahra South	999	Informal	Informal	999	N	N		Informal	50	0.3
